@@ -1,5 +1,5 @@
 ---
-slug: /contributor/mock/getting-started/style-guidelines
+slug: /user/mock/getting-started/style-guidelines
 title: Code Style Guidelines
 ---
 
